@@ -1,0 +1,14 @@
+meteor-base             # Packages every Meteor app needs to have
+mobile-experience       # Packages for a great mobile UX
+blaze-html-templates    # Compile .html files into Meteor Blaze views
+reactive-var            # Reactive variable for tracker
+tracker                 # Meteor's client-side reactive programming library
+
+standard-minifier-css   # CSS minifier run for production mode
+standard-minifier-js    # JS minifier run for production mode
+es5-shim                # ECMAScript 5 compatibility for older browsers.
+
+webpack:webpack
+webpack:react
+webpack:css
+webpack:assets
